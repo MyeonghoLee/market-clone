@@ -11,7 +11,7 @@ body{
     "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;;
 }
 .media-info-msg{
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
